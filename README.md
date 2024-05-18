@@ -33,3 +33,5 @@
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{DuMonster2501}/count.svg" /></p> 
 <br></div>
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
+
+![snake gif](https://github.com/juninho15830/juninho15830/blob/output/github-contribution-grid-snake.gif)
